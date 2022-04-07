@@ -87,7 +87,7 @@
 }
 
 .icon_film::before{
-    content: '/f008';
+    content: '\f008';
     color: #ffffff;
     font-size: 50px;
     font-style: normal;
